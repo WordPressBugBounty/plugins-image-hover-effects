@@ -1,28 +1,33 @@
 === Image Hover Effects - WordPress Plugin ===
 Contributors: Labibahmed42
-Tags: image hover,CSS3 animations,image effects,grid,gallery,image,hover,image over image
+Tags: image hover effects, hover caption, animated image overlay, responsive image hover, css3 hover effects
 Donate link: https://www.paypal.me/labibahmed/5
 Requires at least: 3.5
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Image Hover Effects is an amazing plugin that will allow user to add 40+ hover effects to images with captions.
+Create stunning image hover effects with animated captions and overlays. Fully responsive, lightweight, and easy to use.
+
 == Description ==
 
-<blockquote>
-	<p>Best Multi-Purpose WordPress Plugin</p>
-</blockquote>
+**Image Hover Effects – WordPress Plugin** helps you display beautiful hover animations on your images with stylish captions and overlays. Perfect for portfolios, galleries, team sections, and product showcases.
+
+Simply upload your image, choose an effect, and you're ready to go. The plugin is fully responsive, mobile-friendly, and built using fast-loading CSS animations.
+
+No bloated code. No complex setup. Just clean visuals that make your images interactive and professional.
 
 [vimeo https://vimeo.com/137003711]
 
-Image hover effects is an amazing collection of pure CSS3 effects with beautiful animations which you can apply on unlimited images with image headings and descriptions. It is really fast and easy to setup for any user without knowing any technical knowledge. It can be used for displaying gallery,team,portfolio and many more. Image Hover effects also have option to display images in slider.
-It contains all the effects which are fully responsive on all devices and hover effects are touch enabled.It will allow user to add 40+ hover effects to images with captions.It include 40+ hover effects with 2 different styles and fully controllable admin options.You can create multiple categories with multiple shortcodes.
-It is the fastest and most easiest plugin to set up in just few minutes.It's only plugin that comes up with a flexible lightbox options. 
-It's a multipurpose wordpress plugin you can use it for displaying your <strong>Products,Portfolios,Testimonials,Image Galleries,Team Members.</strong><br/>
+== Features ==
 
-<h3>Live Previews</h3>
+- 30+ built-in image hover animation styles  
+- Add captions, overlays, and links to your images  
+- Fully responsive and mobile-ready design  
+- Lightweight and fast performance (CSS-only)  
+- Works with all modern themes  
+- No coding knowledge required
 
 <blockquote>
 	<p>
@@ -30,55 +35,26 @@ It's a multipurpose wordpress plugin you can use it for displaying your <strong>
 	</p>
 </blockquote>
 
-
-<h3>Need Help?</h3>
-
-<blockquote>
-	<p><a href="https://wordpress.org/support/plugin/image-hover-effects">Support Forum</a> | <a href="https://webdevocean.com/contact-us/">Contact Us</a> | <a href="https://webdevocean.com/image-hover-effects-documentation/">Documentation</a></p>
-</blockquote>
-
-
-
-<h3>Features</h3>
-
-<ul>
-	<li>Pure CSS3 Effects</li> 
-	<li>Lightbox Enabled</li> 
-	<li>Fully Responsive</li> 
-	<li>40+ Hover Effects</li> 
-	<li>Show Images in Slider</li> 
-	<li>10+ Animations on Scroll</li> 
-	<li>Multiple Shortcodes</li> 
-	<li>Multiple Categories</li> 
-	<li>Shortcode generator</li> 
-	<li>Image Preview Option Available in Settings Page</li> 
-	<li>Image Upload from media</li> 
-	<li>Change Caption Heading and Description Colour</li> 
-	<li>AJAX Based</li>
-	<li>Fast</li>
-	<li>Easy to Use</li>
-	<li>Easy Admin Options</li>
-	<li>Animated</li>
-	<li>Quick</li>
-</ul>
-
-<h3>Feeback</h3>
-If you are happy with our work don't forget to <a href="https://wordpress.org/support/plugin/image-hover-effects/reviews/?rate=5#new-post">Rate</a>.Your feedback really matters to us.
-
-<h3>Visual Composer Extension Available</h3>
-Now Visual Composer Extension is also available with alot of customizations options.
-
-<a href="https://wordpress.org/plugins/image-hover-effects-visual-composer-extension/">Get Visual Composer Extension Free</a><br>
-
-
 == Installation ==
-1. Go to plugins in your dashboard and select 'add new'
-2. Search for 'Image Hover Effects' and install it
-3. Go to Dashboard > Image Hover Effects.Save options
-4. Get shortcode using Get Shortcode Button
-5. Use shorcode in Post,Page or Custom Post type
-6. Now visit that page and see plugin in action
 
+1. Upload the plugin folder to the `/wp-content/plugins/` directory or install it via the WordPress plugin dashboard.  
+2. Activate the plugin through the “Plugins” menu in WordPress.  
+3. Start adding image hover effects from your content editor.
+
+== Usage ==
+
+Once activated, you can begin adding images with hover effects using the visual interface provided in your WordPress editor. Choose from multiple hover styles, set your caption text, and publish.
+
+== Frequently Asked Questions ==
+
+= Can I use this with my theme? =  
+Yes, the plugin works with all standard WordPress themes.
+
+= Are the animations mobile-friendly? =  
+Absolutely. All hover effects are responsive and work well on phones and tablets.
+
+= Do I need to know CSS or HTML? =  
+Not at all. The plugin is designed for ease of use—just upload your image, choose a style, and you're done.
 
 == Screenshots ==
 1. Admin Settings
